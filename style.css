@@ -1,0 +1,19 @@
+.nav-link {
+    color: black;
+}
+
+a {
+    font-size: 13px;
+}
+
+h2 {
+    font-family: DomaineDisplay, Georgia, serif;
+}
+
+i {
+    font-size: large;
+}
+
+.sticky {
+    position: relative;
+}
